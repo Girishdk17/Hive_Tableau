@@ -36,7 +36,7 @@ Shell script to download data and put it into S3 bucket RAW data folder
 
 RDS
 Add Jar 
-#!/bin/bash
+#!/bin/bash 
 
 cd /home/hadoop/
 
