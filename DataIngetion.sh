@@ -1,3 +1,8 @@
+********************
+* Auther : GIRISH  *
+* Date :           *
+********************
+
 #!/bin/bash
 
 cd /home/hadoop/
